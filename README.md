@@ -11,6 +11,12 @@ This project aims to address the challenges of power management by focusing on t
 3. **Telemetry Data Collection**: Gather telemetry data from key components such as the CPU, memory, Network Interface Card (NIC), and Thermal Design Power (TDP).
 4. **Power Utilization Measurement**: Measure and record system power utilization, focusing specifically on CPU, NIC, and TDP based on varying input parameters related to system utilization percentages.
 
+## Team Member
+Sarvesh Kumar R
+
+## College Mentor
+Basil Xavier
+
 ## Demonstration
 
 To provide a practical overview of the tool's functionality, you can watch the demonstration screencast here: [Watch the Screencast](#).
@@ -37,7 +43,7 @@ To provide a practical overview of the tool's functionality, you can watch the d
    ![Battery Usage Plots](images/battery.png)
    <div align="center">Battery Usage Plots</div>
 
-5. **GPU Metrics Tracking**: The tool also tracks various GPU metrics, including power consumption, supply voltage, and temperature, giving users insights into the power efficiency of their graphics-related tasks.
+5. **GPU Metrics Tracking: The tool also tracks various GPU metrics, including power consumption, supply voltage, and temperature, giving users insights into the power efficiency of their graphics-related tasks.
 
    ![GPU Metric Plots](images/gpu.png)
    <div align="center">GPU Metric Plots</div>
