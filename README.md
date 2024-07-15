@@ -11,12 +11,11 @@ This project aims to address the challenges of power management by focusing on t
 3. **Telemetry Data Collection**: Gather telemetry data from key components such as the CPU, memory, Network Interface Card (NIC), and Thermal Design Power (TDP).
 4. **Power Utilization Measurement**: Measure and record system power utilization, focusing specifically on CPU, NIC, and TDP based on varying input parameters related to system utilization percentages.
 
-## Team Member
+<div align="right"><b>Team Member</b></div>
 Sarvesh Kumar R
 
-## College Mentor
+<div align="right"><b>College Mentor</b></div>
 Basil Xavier
-
 
 ## Key Features
 
@@ -40,7 +39,7 @@ Basil Xavier
    ![Battery Usage Plots](images/battery.png)
    <div align="center">Battery Usage Plots</div>
 
-5. **GPU Metrics Tracking: The tool also tracks various GPU metrics, including power consumption, supply voltage, and temperature, giving users insights into the power efficiency of their graphics-related tasks.
+5. **GPU Metrics Tracking**: The tool also tracks various GPU metrics, including power consumption, supply voltage, and temperature, giving users insights into the power efficiency of their graphics-related tasks.
 
    ![GPU Metric Plots](images/gpu.png)
    <div align="center">GPU Metric Plots</div>
@@ -80,6 +79,10 @@ Utilizing Docker for containerization ensures a consistent and portable environm
 
 4. **Download Application Code**:
    - Access the `GUI_code` folder in the repository, download the files, and execute the application.
+
+## Code
+
+The core functionality of the Power Management Tool is implemented in the `power.py` file. This script handles various aspects of system telemetry measurement and power management. You can find the code at `code/power.py`.
 
 ## Tools Utilized
 
