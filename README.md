@@ -17,9 +17,6 @@ Sarvesh Kumar R
 ## College Mentor
 Basil Xavier
 
-## Demonstration
-
-To provide a practical overview of the tool's functionality, you can watch the demonstration screencast here: [Watch the Screencast](#).
 
 ## Key Features
 
