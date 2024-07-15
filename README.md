@@ -11,10 +11,10 @@ This project aims to address the challenges of power management by focusing on t
 3. **Telemetry Data Collection**: Gather telemetry data from key components such as the CPU, memory, Network Interface Card (NIC), and Thermal Design Power (TDP).
 4. **Power Utilization Measurement**: Measure and record system power utilization, focusing specifically on CPU, NIC, and TDP based on varying input parameters related to system utilization percentages.
 
-<div align="right"><b>Team Member</b></div>
+<div align="left"><b>Team Member</b></div>
 Sarvesh Kumar R
 
-<div align="right"><b>College Mentor</b></div>
+<div align="left"><b>College Mentor</b></div>
 Basil Xavier
 
 ## Key Features
