@@ -184,6 +184,7 @@ if __name__ == "__main__":
             p.terminate()
         for p in processes:
             p.join()
+```
 Tools Utilized
 The Power Management Tool leverages several powerful libraries and tools to present accurate real-time data through intuitive visualizations:
 
